@@ -1,0 +1,21 @@
+.User {
+    width: 100%;
+    margin-bottom: 20px;
+
+    .container {
+        display: flex;
+    }
+
+    .avatar {
+        margin-right: 7px;
+        width: 45px;
+        height: 45px;
+        background-color: black;
+    }
+
+    .info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
